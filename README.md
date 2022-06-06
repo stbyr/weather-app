@@ -12,6 +12,12 @@ Start the development server with
 npm run dev
 ``` 
 
+## Video demonstration
+
+Click here for a short video demonstration of the app:
+
+[![Watch the video](https://img.youtube.com/vi/EQE-Kvu5RWQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=EQE-Kvu5RWQ)
+
 ## Project setup
 
 This project was bootstrapped with 
